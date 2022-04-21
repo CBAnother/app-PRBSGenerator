@@ -1,0 +1,12 @@
+*.obj
+*.pdb
+
+# visual studio
+/.vs/
+obj/
+*.VC.db
+*.VC.opendb
+*.vshost.exe*
+bin/
+
+# this project
